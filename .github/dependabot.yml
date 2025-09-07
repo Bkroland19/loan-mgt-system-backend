@@ -1,0 +1,12 @@
+version: 2
+updates:
+  # Keep npm (Node.js) dependencies up to date
+  - package-ecosystem: "npm"
+    directory: "/" # Location of package.json
+    schedule:
+      interval: "weekly" # Options: daily, weekly, monthly
+    open-pull-requests-limit: 10
+    commit-message:
+      prefix: "chore(deps)"
+    allow:
+      - dependency-type: "all" # all, direct, indirect
