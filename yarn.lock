@@ -3762,9 +3762,9 @@ levn@^0.4.1:
     type-check "~0.4.0"
 
 libphonenumber-js@^1.11.1:
-  version "1.12.15"
-  resolved "https://registry.npmjs.org/libphonenumber-js/-/libphonenumber-js-1.12.15.tgz"
-  integrity sha512-TMDCtIhWUDHh91wRC+wFuGlIzKdPzaTUHHVrIZ3vPUEoNaXFLrsIQ1ZpAeZeXApIF6rvDksMTvjrIQlLKaYxqQ==
+  version "1.12.18"
+  resolved "https://registry.yarnpkg.com/libphonenumber-js/-/libphonenumber-js-1.12.18.tgz#0d2211b4b6a5378281e6e2ffb960e123e7375da3"
+  integrity sha512-k0pdkX8DXHqVrby7yJ23WBcHMCX1lhwvX/Uazh0vf3wfGQa0qDIyRB2Z2C01JREGGt8Assfwl1yZduq59OjXXQ==
 
 lines-and-columns@^1.1.6:
   version "1.2.4"
