@@ -2315,9 +2315,9 @@ effect@3.16.12:
     fast-check "^3.23.1"
 
 electron-to-chromium@^1.5.211:
-  version "1.5.214"
-  resolved "https://registry.npmjs.org/electron-to-chromium/-/electron-to-chromium-1.5.214.tgz"
-  integrity sha512-TpvUNdha+X3ybfU78NoQatKvQEm1oq3lf2QbnmCEdw+Bd9RuIAY+hJTvq1avzHM0f7EJfnH3vbCnbzKzisc/9Q==
+  version "1.5.240"
+  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.5.240.tgz#bfd946570a723aa3754370065d02e23e30824774"
+  integrity sha512-OBwbZjWgrCOH+g6uJsA2/7Twpas2OlepS9uvByJjR2datRDuKGYeD+nP8lBBks2qnB7bGJNHDUx7c/YLaT3QMQ==
 
 emittery@^0.13.1:
   version "0.13.1"
